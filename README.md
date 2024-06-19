@@ -1,10 +1,10 @@
-👋 Hi, I’m @PARANDHAMAREDDYBOMMAKA. I'm a student at Kalvium.
+👋 Hi, I’m @srikeerthireddy. I'm a student at Kalvium.
 
 👀 I’m interested in programming, technology, science, etc..
 
 🌱 I’m currently learning Full Stack Web Development
 
-📫 You can reach me mail : rparandhama63@gmail.com.
+📫 You can reach me mail : srikeerthireddy24@gmail.com.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srikeerthireddy&hide_progress=false)
 
