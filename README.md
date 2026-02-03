@@ -1,141 +1,112 @@
-<!-- ======================= -->
-<!-- 🌌 DARK CYBER THEME README -->
-<!-- ======================= -->
+████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
+╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
+   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
+   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
+   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
+   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
 
-![Cyber Banner](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Y.%20Sri%20Keerthi&fontSize=40&fontColor=00f5ff&desc=Backend-Focused%20Full-Stack%20Engineer&descAlignY=65&descSize=18)
+> USER: y.sri.keerthi  
+> ROLE: backend_focused_fullstack_engineer  
+> MODE: production_ready  
+> STATUS: active  
 
----
+------------------------------------------------------------
 
-## 🧠 SYSTEM PROFILE
+$ whoami
+Y. Sri Keerthi
 
-**Name:** Y. Sri Keerthi  
-**Role:** Full-Stack Engineer (Backend-Oriented)  
-**Program:** CS Undergraduate @ Kalvium  
+$ cat profile.txt
+Full-stack engineer with a strong focus on backend systems,  
+scalable APIs, and cloud-native architectures.  
+Experienced in building reliable, secure, and high-performance  
+applications used in real-world production environments.
 
-🔗 **Links**  
-[LinkedIn](#) • [GitHub](#) • [LeetCode](#) • [Portfolio](#)
+------------------------------------------------------------
 
----
+$ ls skills/
 
-## ⚡ CORE SUMMARY
-
-Detail-oriented engineer specializing in **scalable backend systems**, **clean API design**, and **cloud-ready architectures**.  
-Driven by performance, security, and real-world impact.  
-Comfortable working with **production-grade systems** and high-traffic workflows.
-
----
-
-## 🛠️ TECH STACK // CYBER GRID
-
-### 👨‍💻 Programming
+📁 programming_languages
 ![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
 ![Java](https://skillicons.dev/icons?i=java&theme=dark)
 ![Python](https://skillicons.dev/icons?i=python&theme=dark)
 
----
-
-### 🎨 Frontend
+📁 frontend
 ![React](https://skillicons.dev/icons?i=react&theme=dark)
 ![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
 
----
-
-### ⚙️ Backend
+📁 backend
 ![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
 ![Express](https://skillicons.dev/icons?i=express&theme=dark)
 ![Go](https://skillicons.dev/icons?i=go&theme=dark)
 
----
-
-### 🗄️ Data & Messaging
+📁 database_cache
 ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
 ![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
 
----
-
-### ☁️ DevOps & Tools
+📁 devops_tools
 ![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
 ![Git](https://skillicons.dev/icons?i=git&theme=dark)
 ![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
 ![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
 ![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
 
----
+------------------------------------------------------------
 
-### 🔧 SYSTEM CAPABILITIES
-- Object-Oriented Programming  
-- Data Structures & Algorithms  
-- REST APIs & JWT Authentication  
-- API Testing & Performance Tuning  
-- Redis • BullMQ • Ably • Node-Cron  
-- Responsive & Secure Design Patterns  
+$ cat experience.log
 
----
+[2025-07 → 2026-01] ShotGun Fantasy — Backend Developer Intern
 
-## 💼 EXPERIENCE // PRODUCTION MODE
+- Built and optimized backend services for an NFL Fantasy platform
+- Designed APIs supporting high-traffic live draft rooms
+- Improved response times and system stability during peak usage
+- Contributed to production features used in real-time drafts
 
-### 🏈 ShotGun Fantasy — Backend Developer Intern  
-**July 2025 – Jan 2026**
+STACK:
+Node.js | Golang | Express.js | PostgreSQL | Redis | Docker | REST APIs
 
-- Engineered backend services for a **high-traffic NFL Fantasy platform**
-- Designed reliable APIs supporting **live draft rooms**
-- Optimized system performance and stability under peak load
-- Delivered key features used in real-time fantasy drafts
+------------------------------------------------------------
 
-**Tech Used:**  
-Node.js • Golang • Express.js • PostgreSQL • Redis • Docker • REST APIs  
+$ cat projects/
 
-**Outcome:**  
-Hands-on experience with **production systems**, **performance tuning**, and **agile backend engineering**.
+▶ calm_corner/
+  - Mental health & mindfulness web platform
+  - Secure JWT authentication
+  - Scalable REST APIs
+  - CI/CD automated deployments
 
----
+  STACK:
+  React.js | Chakra UI | Express.js | MongoDB | GitHub Actions
 
-## 🧩 PROJECTS // DEPLOYED
+  METRICS:
+  • 10+ user activity logs/month
+  • 25% improvement in reliability
 
-### 🧘 Calm Corner  
-**Mental Health Web Platform**
+------------------------------------------------------------
 
-🔗 GitHub Repository • Live Deployment  
-📅 Apr 2024 – May 2025  
+$ cat education.txt
+Kalvium — UG Program in Computer Science (2023–2027)
+B.Tech in Software Engineering  
+Apollo University, Chittoor
 
-- Built a responsive platform for emotion tracking & mindfulness
-- Implemented secure authentication and scalable APIs
-- Automated CI/CD pipelines for smooth production releases
+------------------------------------------------------------
 
-**Stack:**  
-React.js • Chakra UI • Express.js • MongoDB • JWT • GitHub Actions  
+$ cat achievements.md
+✔ Full-Stack Programming Certification  
+✔ SQL Database & Optimization  
+✔ Google Cloud Computing  
+✔ 4+ Production-grade deployments  
+✔ Backend Intern @ ShotGun Fantasy  
 
-**Impact:**  
-- 10+ user activity logs/month  
-- 25% improvement in system reliability  
+------------------------------------------------------------
 
----
+$ echo "connect"
+LinkedIn | GitHub | LeetCode | Portfolio
 
-## 🎓 EDUCATION // ACADEMIC NODE
+------------------------------------------------------------
 
-**Kalvium — UG Program in Computer Science**  
-📅 2023 – 2027  
-
-- **B.Tech in Software Engineering**  
-- Apollo University, Chittoor  
-
----
-
-## 🏆 ACHIEVEMENTS // LOGS
-
-- 🧾 Full-Stack Programming Certification  
-- 🗄️ SQL Database & Optimization  
-- ☁️ Google Cloud Computing  
-- 🚀 Deployed **4+ production-grade applications**
-- 💼 Backend Intern @ ShotGun Fantasy  
-
----
-
-![Cyber Footer](https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=120&section=footer&text=BUILD.%20OPTIMIZE.%20DEPLOY.&fontSize=20&fontColor=00f5ff)
-
----
-
-### 🧩 STATUS
-Open to **backend-heavy internships**, **full-stack roles**, and **system-focused projects**.
+$ systemctl status sri-keerthi
+● backend.engineer.service - ACTIVE
+  Focus: APIs | Scalability | Performance
+  Availability: internships | backend-heavy roles
