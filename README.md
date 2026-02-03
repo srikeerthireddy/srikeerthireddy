@@ -1,28 +1,43 @@
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiB2aWV3Qm94PSIwIDAgODAwIDIwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcxIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjUwJSIgc3RvcC1jb2xvcj0iIzA2YjZkNCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiNhODU1ZjciLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImcyIiB4MT0iMTAwJSIgeTE9IjAlIiB4Mj0iMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2E4NTVmNyIgc3RvcC1vcGFjaXR5PSIwLjMiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjNjM2NmYxIiBzdG9wLW9wYWNpdHk9IjAuMSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICAgIDxmaWx0ZXIgaWQ9Imdsb3ciPgogICAgICA8ZmVHYXVzc2lhbkJsdXIgc3RkRGV2aWF0aW9uPSIzIiByZXN1bHQ9ImJsdXIiLz4KICAgICAgPGZlTWVyZ2U+PGZlTWVyZ2VOb2RlIGluPSJibHVyIi8+PGZlTWVyZ2VOb2RlIGluPSJTb3VyY2VHcmFwaGljIi8+PC9mZU1lcmdlPgogICAgPC9maWx0ZXI+CiAgICA8ZmlsdGVyIGlkPSJzaGFkb3ciPgogICAgICA8ZmVEcm9wU2hhZG93IGR4PSIwIiBkeT0iNCIgc3RkRGV2aWF0aW9uPSI4IiBmbG9vZC1jb2xvcj0iIzYzNjZmMSIgZmxvb2Qtb3BhY2l0eT0iMC40Ii8+CiAgICA8L2ZpbHRlcj4KICA8L2RlZnM+CiAgPCEtLSBkYXJrIGJnIC0tPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iMjAwIiByeD0iMCIgZmlsbD0iIzA2MGExNCIvPgogIDwhLS0gc3VidGxlIGdyaWQgLS0+CiAgPGRlZnM+CiAgICA8cGF0dGVybiBpZD0iZ3JpZCIgd2lkdGg9IjQwIiBoZWlnaHQ9IjQwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHBhdGggZD0iTSA0MCAwIEwgMCAwIDAgNDAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIwLjMiIG9wYWNpdHk9IjAuMjUiLz4KICAgIDwvcGF0dGVybj4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjgwMCIgaGVpZ2h0PSIyMDAiIGZpbGw9InVybCgjZ3JpZCkiIG9wYWNpdHk9IjAuNiIvPgogIDwhLS0gYW1iaWVudCBnbG93cyAtLT4KICA8ZWxsaXBzZSBjeD0iMTUwIiBjeT0iNjAiIHJ4PSIxODAiIHJ5PSIxMDAiIGZpbGw9IiM2MzY2ZjEiIG9wYWNpdHk9IjAuMDgiLz4KICA8ZWxsaXBzZSBjeD0iNjAwIiBjeT0iMTQwIiByeD0iMjAwIiByeT0iOTAiIGZpbGw9IiMwNmI2ZDQiIG9wYWNpdHk9IjAuMDciLz4KICA8ZWxsaXBzZSBjeD0iNDAwIiBjeT0iMTAwIiByeD0iMTAwIiByeT0iNjAiIGZpbGw9IiNhODU1ZjciIG9wYWNpdHk9IjAuMDYiLz4KICA8IS0tIGRlY29yYXRpdmUgY29ybmVyIGxpbmVzIC0tPgogIDxsaW5lIHgxPSIwIiB5MT0iMCIgeDI9IjYwIiB5Mj0iMCIgc3Ryb2tlPSJ1cmwoI2cxKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPGxpbmUgeDE9IjAiIHkxPSIwIiB4Mj0iMCIgeTI9IjYwIiBzdHJva2U9InVybCgjZzEpIiBzdHJva2Utd2lkdGg9IjIiLz4KICA8bGluZSB4MT0iNzQwIiB5MT0iMCIgeDI9IjgwMCIgeTI9IjAiIHN0cm9rZT0idXJsKCNnMSkiIHN0cm9rZS13aWR0aD0iMiIvPgogIDxsaW5lIHgxPSI4MDAiIHkxPSIwIiB4Mj0iODAwIiB5Mj0iNjAiIHN0cm9rZT0idXJsKCNnMSkiIHN0cm9rZS13aWR0aD0iMiIvPgogIDxsaW5lIHgxPSIwIiB5MT0iMTQwIiB4Mj0iMCIgeTI9IjIwMCIgc3Ryb2tlPSJ1cmwoI2cxKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPGxpbmUgeDE9IjAiIHkxPSIyMDAiIHgyPSI2MCIgeTI9IjIwMCIgc3Ryb2tlPSJ1cmwoI2cxKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPGxpbmUgeDE9IjgwMCIgeTE9IjE0MCIgeDI9IjgwMCIgeTI9IjIwMCIgc3Ryb2tlPSJ1cmwoI2cxKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPGxpbmUgeDE9Ijc0MCIgeTE9IjIwMCIgeDI9IjgwMCIgeTI9IjIwMCIgc3Ryb2tlPSJ1cmwoI2cxKSIgc3Ryb2tlLXdpZHRoPSIyIi8+CiAgPCEtLSBmbG9hdGluZyBkb3RzIC0tPgogIDxjaXJjbGUgY3g9IjgwIiBjeT0iMzAiIHI9IjIiIGZpbGw9IiM2MzY2ZjEiIG9wYWNpdHk9IjAuNiIvPgogIDxjaXJjbGUgY3g9IjEyMCIgY3k9IjE3MCIgcj0iMS41IiBmaWxsPSIjMDZiNmQ0IiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI3MDAiIGN5PSI0MCIgcj0iMi41IiBmaWxsPSIjYTg1NWY3IiBvcGFjaXR5PSIwLjUiLz4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxNjAiIHI9IjEuOCIgZmlsbD0iIzYzNjZmMSIgb3BhY2l0eT0iMC40Ii8+CiAgPGNpcmNsZSBjeD0iNDAwIiBjeT0iMjUiIHI9IjEuMiIgZmlsbD0iIzA2YjZkNCIgb3BhY2l0eT0iMC42Ii8+CiAgPGNpcmNsZSBjeD0iMjAwIiBjeT0iMTgwIiByPSIyIiBmaWxsPSIjYTg1NWY3IiBvcGFjaXR5PSIwLjQiLz4KICA8Y2lyY2xlIGN4PSI1MDAiIGN5PSIxNzUiIHI9IjEuNSIgZmlsbD0iIzYzNjZmMSIgb3BhY2l0eT0iMC41Ii8+CiAgPGNpcmNsZSBjeD0iMzUwIiBjeT0iMzAiIHI9IjEiIGZpbGw9IiMwNmI2ZDQiIG9wYWNpdHk9IjAuNSIvPgogIDwhLS0gY29ubmVjdGluZyBsaW5lcyAoY29uc3RlbGxhdGlvbikgLS0+CiAgPGxpbmUgeDE9IjgwIiB5MT0iMzAiIHgyPSIxMjAiIHkyPSIxNzAiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIwLjQiIG9wYWNpdHk9IjAuMTUiLz4KICA8bGluZSB4MT0iNzAwIiB5MT0iNDAiIHgyPSI2ODAiIHkyPSIxNjAiIHN0cm9rZT0iI2E4NTVmNyIgc3Ryb2tlLXdpZHRoPSIwLjQiIG9wYWNpdHk9IjAuMTUiLz4KICA8bGluZSB4MT0iNDAwIiB5MT0iMjUiIHgyPSIzNTAiIHkyPSIzMCIgc3Ryb2tlPSIjMDZiNmQ0IiBzdHJva2Utd2lkdGg9IjAuNCIgb3BhY2l0eT0iMC4yIi8+CiAgPCEtLSBOQU1FIFRFWFQgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSI5NSIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMzQiIGZvbnQtd2VpZ2h0PSI5MDAiIGZpbGw9InVybCgjZzEpIiBmaWx0ZXI9InVybCgjZ2xvdykiIGxldHRlci1zcGFjaW5nPSI1Ij5ZIFNSSSBLRUVSVEhJPC90ZXh0PgogIDwhLS0gc3VidGl0bGUgLS0+CiAgPHRleHQgeD0iNDAwIiB5PSIxMzAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInU2hhcmUgVGVjaCBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMyIgZmlsbD0iIzA2YjZkNCIgb3BhY2l0eT0iMC44NSIgbGV0dGVyLXNwYWNpbmc9IjMiPuKfqCBGVUxMLVNUQUNLIEVOR0lORUVSIMK3IEJBQ0tFTkQtRk9DVVNFRCDCtyBDUyBAIEtBTFZJVU0g4p+pPC90ZXh0PgogIDwhLS0gYm90dG9tIGFjY2VudCBsaW5lIC0tPgogIDxsaW5lIHgxPSIzMDAiIHkxPSIxNDgiIHgyPSI1MDAiIHkyPSIxNDgiIHN0cm9rZT0idXJsKCNnMSkiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjYiLz4KICA8IS0tIHRpbnkgZGlhbW9uZCBjZW50ZXIgLS0+CiAgPHBvbHlnb24gcG9pbnRzPSI0MDAsMTQyIDQwNCwxNDggNDAwLDE1NCAzOTYsMTQ4IiBmaWxsPSIjNjM2NmYxIiBvcGFjaXR5PSIwLjciLz4KPC9zdmc+" alt="Y Sri Keerthi" width="800" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/Role-Full%20Stack%20Engineer-6366f1?style=for-the-badge" alt="Role" />
-<img src="https://img.shields.io/badge/Focus-Backend%20Systems-06b6d4?style=for-the-badge" alt="Focus" />
-<img src="https://img.shields.io/badge/University-Kalvium%20·%20Apollo-a855f7?style=for-the-badge" alt="University" />
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/sri-keerthi-y/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://portfolio-srikeerthi.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Profile-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://leetcode.com/u/srikeerthireddy/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-<a href="mailto:srikeerthireddy24@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<!-- animated typing banner via capsule-render -->
+<img src="https://capsule-render.vercel.app/api?type=waveAppear&color=0,#6366f1,#06b6d4,#a855f7,100&height=180&section=header&text=Y%20Sri%20Keerthi&fontSize=40&fontColor=#ffffff&animation=fadeIn&fontAlignY=65&textAlignX=center&rect&strokeColor=#6366f1" alt="header" width="100%" />
 
 </div>
 
----
-
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNTIiIHZpZXdCb3g9IjAgMCA3MDAgNTIiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNjM2NmYxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA2YjZkNCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI1MiIgcng9IjEyIiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiM2MzY2ZjEiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiLz4KICA8IS0tIGxlZnQgYWNjZW50IGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MiIgcng9IjIiIGZpbGw9InVybCgjc2gpIi8+CiAgPCEtLSBnbG93IGRvdCAtLT4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjI2IiByPSIxMCIgZmlsbD0iIzYzNjZmMSIgb3BhY2l0eT0iMC4wOCIvPgogIDx0ZXh0IHg9IjI0IiB5PSIzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCI+8J+OrzwvdGV4dD4KICA8IS0tIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ4IiB5PSIzMyIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNlMmU4ZjAiIGxldHRlci1zcGFjaW5nPSIzIj5BQk9VVCBNRTwvdGV4dD4KICA8IS0tIHJpZ2h0IGRlY29yYXRpdmUgZG90cyAtLT4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxOCIgcj0iMiIgZmlsbD0iIzYzNjZmMSIgb3BhY2l0eT0iMC40Ii8+CiAgPGNpcmNsZSBjeD0iNjY4IiBjeT0iMTgiIHI9IjEuNSIgZmlsbD0iIzA2YjZkNCIgb3BhY2l0eT0iMC4zIi8+CiAgPGNpcmNsZSBjeD0iNjU2IiBjeT0iMTgiIHI9IjEiIGZpbGw9IiM2MzY2ZjEiIG9wYWNpdHk9IjAuMiIvPgo8L3N2Zz4=" alt="About Me" width="700" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0,#060a14,#0e1426&height=30&section=header&text=&fontSize=1&fontColor=#ffffff&animation=&fontAlignY=40&textAlignX=center&rect&strokeColor=#6366f1&strokeWidth=1" width="100%" />
 
+</div>
+
+<div align="center">
+<br/>
+
+<img src="https://img.shields.io/badge/Full%20Stack%20Engineer-6366f1?style=for-the-badge&labelColor=1e1b4b&logo=code&logoColor=white" />
+<img src="https://img.shields.io/badge/Backend%20Focused-06b6d4?style=for-the-badge&labelColor=083344&logo=server&logoColor=white" />
+<img src="https://img.shields.io/badge/CS%20%40%20Kalvium-a855f7?style=for-the-badge&labelColor=3b0764&logo=graduation-cap&logoColor=white" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/sri-keerthi-y/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://portfolio-srikeerthi.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://leetcode.com/u/srikeerthireddy/" target="_blank">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+</a>
+<a href="mailto:srikeerthireddy24@gmail.com">
+<img src="https://img.shields.io/badge/Email-Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<br/><br/>
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e1426&height=30&width=700&text=%F0%9F%8E%AF%20%20ABOUT%20ME&fontSize=16&fontColor=#e2e8f0&textAlignX=center&strokeColor=#6366f1&strokeWidth=1" width="700" alt="About Me"/>
 </div>
 
 <br/>
@@ -31,151 +46,238 @@
 
 | | |
 |:--|:--|
-| 🚀 Backend-focused **Full-Stack Engineer** | 🌐 Passionate about **scalable systems** & cloud-native architectures |
-| 🗄️ Strong in **system design**, databases & performance optimization | 🎓 CS Undergraduate @ **Kalvium (Apollo University)** |
-| ✔️ Design & develop **RESTful APIs** | ⚙️ Deploy & maintain **production-grade apps** |
-| 📦 Work with **databases, caching** & async job queues | 🔥 Always building · learning · shipping |
+| 🚀 &nbsp; Backend-focused **Full-Stack Engineer** | 🌐 &nbsp; Passionate about **scalable systems** & cloud-native architectures |
+| 🗄️ &nbsp; Strong in **system design**, DBs & performance optimization | 🎓 &nbsp; CS Undergraduate @ **Kalvium (Apollo University)** |
+| ✔️ &nbsp; Design & develop **RESTful APIs** | ⚙️ &nbsp; Deploy & maintain **production-grade applications** |
+| 📦 &nbsp; Work with **databases, caching** & async job queues | 🔥 &nbsp; Always building · Always learning · Always shipping |
 
 </div>
 
 ---
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e1426&height=30&width=700&text=%F0%9F%9D%A0%EF%B8%8F%20%20TECH%20STACK&fontSize=16&fontColor=#e2e8f0&textAlignX=center&strokeColor=#06b6d4&strokeWidth=1" width="700" alt="Tech Stack"/>
+</div>
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNTIiIHZpZXdCb3g9IjAgMCA3MDAgNTIiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDZiNmQ0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E4NTVmNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI1MiIgcng9IjEyIiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiMwNmI2ZDQiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiLz4KICA8IS0tIGxlZnQgYWNjZW50IGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MiIgcng9IjIiIGZpbGw9InVybCgjc2gpIi8+CiAgPCEtLSBnbG93IGRvdCAtLT4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjI2IiByPSIxMCIgZmlsbD0iIzA2YjZkNCIgb3BhY2l0eT0iMC4wOCIvPgogIDx0ZXh0IHg9IjI0IiB5PSIzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCI+8J+boO+4jzwvdGV4dD4KICA8IS0tIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ4IiB5PSIzMyIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNlMmU4ZjAiIGxldHRlci1zcGFjaW5nPSIzIj5URUNIIFNUQUNLPC90ZXh0PgogIDwhLS0gcmlnaHQgZGVjb3JhdGl2ZSBkb3RzIC0tPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4IiByPSIyIiBmaWxsPSIjMDZiNmQ0IiBvcGFjaXR5PSIwLjQiLz4KICA8Y2lyY2xlIGN4PSI2NjgiIGN5PSIxOCIgcj0iMS41IiBmaWxsPSIjYTg1NWY3IiBvcGFjaXR5PSIwLjMiLz4KICA8Y2lyY2xlIGN4PSI2NTYiIGN5PSIxOCIgcj0iMSIgZmlsbD0iIzA2YjZkNCIgb3BhY2l0eT0iMC4yIi8+Cjwvc3ZnPg==" alt="Tech Stack" width="700" />
+<br/>
+
+### 💻 &nbsp; Programming Languages
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=cpp" alt="C++" height="45" title="C++"/>
+<img src="https://skillicons.dev/icons?i=java" alt="Java" height="45" title="Java"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="45" title="Python"/>
+<img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" height="45" title="JavaScript"/>
+</div>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-round&labelColor=1a1a2e&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-round&labelColor=1a1a2e&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3572A5?style=flat-round&labelColor=1a1a2e&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-round&labelColor=1a1a2e&logo=javascript&logoColor=black" />
 
 </div>
 
 <br/>
 
+### 🎨 &nbsp; Frontend
+
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMDAgMjgiPgogIDx0ZXh0IHg9IjAiIHk9IjIwIiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMwNmI2ZDQiIGxldHRlci1zcGFjaW5nPSIyIiBvcGFjaXR5PSIwLjg1Ij4vLyBQUk9HUkFNTUlORyBMQU5HVUFHRVM8L3RleHQ+CiAgPGxpbmUgeDE9IjAiIHkxPSIyNiIgeDI9IjMwMCIgeTI9IjI2IiBzdHJva2U9IiMwNmI2ZDQiIHN0cm9rZS13aWR0aD0iMC41IiBvcGFjaXR5PSIwLjIiLz4KPC9zdmc+" alt="Programming Languages" width="300" />
+<img src="https://skillicons.dev/icons?i=react" alt="React" height="45" title="React.js"/>
+<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" height="45" title="Next.js"/>
+<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" height="45" title="Tailwind CSS"/>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/C%2B%2B--00599C?style=for-the-badge&logo=c&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/Java--ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-<img src="https://img.shields.io/badge/Python--3572A5?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/JavaScript--F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMDAgMjgiPgogIDx0ZXh0IHg9IjAiIHk9IjIwIiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMwNmI2ZDQiIGxldHRlci1zcGFjaW5nPSIyIiBvcGFjaXR5PSIwLjg1Ij4vLyBGUk9OVEVORDwvdGV4dD4KICA8bGluZSB4MT0iMCIgeTE9IjI2IiB4Mj0iMzAwIiB5Mj0iMjYiIHN0cm9rZT0iIzA2YjZkNCIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMiIvPgo8L3N2Zz4=" alt="Frontend" width="300" />
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React.js--61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-<img src="https://img.shields.io/badge/Next.js--000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS--06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-round&labelColor=1a1a2e&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-round&labelColor=1a1a2e&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-round&labelColor=1a1a2e&logo=tailwindcss&logoColor=white" />
 
 </div>
 
 <br/>
 
+### ⚙️ &nbsp; Backend
+
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMDAgMjgiPgogIDx0ZXh0IHg9IjAiIHk9IjIwIiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMwNmI2ZDQiIGxldHRlci1zcGFjaW5nPSIyIiBvcGFjaXR5PSIwLjg1Ij4vLyBCQUNLRU5EPC90ZXh0PgogIDxsaW5lIHgxPSIwIiB5MT0iMjYiIHgyPSIzMDAiIHkyPSIyNiIgc3Ryb2tlPSIjMDZiNmQ0IiBzdHJva2Utd2lkdGg9IjAuNSIgb3BhY2l0eT0iMC4yIi8+Cjwvc3ZnPg==" alt="Backend" width="300" />
+<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" height="45" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" alt="Express" height="45" title="Express.js"/>
+<img src="https://skillicons.dev/icons?i=go" alt="Go" height="45" title="Go"/>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Node.js--339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js--404040?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/Go--00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMDAgMjgiPgogIDx0ZXh0IHg9IjAiIHk9IjIwIiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiM0N0EyNDgiIGxldHRlci1zcGFjaW5nPSIyIiBvcGFjaXR5PSIwLjg1Ij4vLyBEQVRBQkFTRVMgJiBDQUNISU5HPC90ZXh0PgogIDxsaW5lIHgxPSIwIiB5MT0iMjYiIHgyPSIzMDAiIHkyPSIyNiIgc3Ryb2tlPSIjNDdBMjQ4IiBzdHJva2Utd2lkdGg9IjAuNSIgb3BhY2l0eT0iMC4yIi8+Cjwvc3ZnPg==" alt="Databases" width="300" />
-</div>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/MongoDB--47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/PostgreSQL--336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis--D00000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-round&labelColor=1a1a2e&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404040?style=flat-round&labelColor=1a1a2e&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-round&labelColor=1a1a2e&logo=go&logoColor=white" />
 
 </div>
 
 <br/>
 
+### 🗄️ &nbsp; Databases & Caching
+
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMDAgMjgiPgogIDx0ZXh0IHg9IjAiIHk9IjIwIiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiNGMDUwMzIiIGxldHRlci1zcGFjaW5nPSIyIiBvcGFjaXR5PSIwLjg1Ij4vLyBERVZPUFMgJiBUT09MUzwvdGV4dD4KICA8bGluZSB4MT0iMCIgeTE9IjI2IiB4Mj0iMzAwIiB5Mj0iMjYiIHN0cm9rZT0iI0YwNTAzMiIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMiIvPgo8L3N2Zz4=" alt="DevOps" width="300" />
+<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="45" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="45" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="45" title="Redis"/>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Git--F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub--181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Docker--2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/GitHub%20Actions--181717?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/Postman--FF6365?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Vercel--000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-round&labelColor=1a1a2e&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-round&labelColor=1a1a2e&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Redis-D00000?style=flat-round&labelColor=1a1a2e&logo=redis&logoColor=white" />
 
 </div>
 
 <br/>
 
+### 🚀 &nbsp; DevOps & Tools
+
 <div align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMDAiIGhlaWdodD0iMjgiIHZpZXdCb3g9IjAgMCAzMDAgMjgiPgogIDx0ZXh0IHg9IjAiIHk9IjIwIiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiNhODU1ZjciIGxldHRlci1zcGFjaW5nPSIyIiBvcGFjaXR5PSIwLjg1Ij4vLyBDT05DRVBUUyAmIExJQlJBUklFUzwvdGV4dD4KICA8bGluZSB4MT0iMCIgeTE9IjI2IiB4Mj0iMzAwIiB5Mj0iMjYiIHN0cm9rZT0iI2E4NTVmNyIgc3Ryb2tlLXdpZHRoPSIwLjUiIG9wYWNpdHk9IjAuMiIvPgo8L3N2Zz4=" alt="Concepts" width="300" />
+<img src="https://skillicons.dev/icons?i=git" alt="Git" height="45" title="Git"/>
+<img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="45" title="GitHub"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="45" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="45" title="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="45" title="Vercel"/>
 </div>
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/OOP-a855f7?style=flat-square&labelColor=3b0764" alt="OOP" />
-<img src="https://img.shields.io/badge/DSA-a855f7?style=flat-square&labelColor=3b0764" alt="DSA" />
-<img src="https://img.shields.io/badge/API%20Testing-a855f7?style=flat-square&labelColor=3b0764" alt="API Testing" />
-<img src="https://img.shields.io/badge/JWT%20Auth-a855f7?style=flat-square&labelColor=3b0764" alt="JWT Auth" />
-<img src="https://img.shields.io/badge/BullMQ-a855f7?style=flat-square&labelColor=3b0764" alt="BullMQ" />
-<img src="https://img.shields.io/badge/Node-Cron-a855f7?style=flat-square&labelColor=3b0764" alt="Node-Cron" />
-<img src="https://img.shields.io/badge/Ably-a855f7?style=flat-square&labelColor=3b0764" alt="Ably" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-round&labelColor=1a1a2e&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-round&labelColor=1a1a2e&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-round&labelColor=1a1a2e&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=flat-round&labelColor=1a1a2e&logo=github-actions&logoColor=white" />
+<img src="https://img.shields.io/badge/Postman-FF6365?style=flat-round&labelColor=1a1a2e&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-round&labelColor=1a1a2e&logo=vercel&logoColor=white" />
+
+</div>
+
+<br/>
+
+### 📦 &nbsp; Concepts & Libraries
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/OOP-6366f1?style=flat-square&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/DSA-6366f1?style=flat-square&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/API%20Testing-6366f1?style=flat-square&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/JWT%20Auth-6366f1?style=flat-square&labelColor=1e1b4b" />
+<img src="https://img.shields.io/badge/BullMQ-06b6d4?style=flat-square&labelColor=083344" />
+<img src="https://img.shields.io/badge/Node%20Cron-06b6d4?style=flat-square&labelColor=083344" />
+<img src="https://img.shields.io/badge/Ably-06b6d4?style=flat-square&labelColor=083344" />
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNTIiIHZpZXdCb3g9IjAgMCA3MDAgNTIiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYTg1NWY3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI1MiIgcng9IjEyIiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiLz4KICA8IS0tIGxlZnQgYWNjZW50IGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MiIgcng9IjIiIGZpbGw9InVybCgjc2gpIi8+CiAgPCEtLSBnbG93IGRvdCAtLT4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjI2IiByPSIxMCIgZmlsbD0iI2E4NTVmNyIgb3BhY2l0eT0iMC4wOCIvPgogIDx0ZXh0IHg9IjI0IiB5PSIzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCI+8J+SvDwvdGV4dD4KICA8IS0tIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ4IiB5PSIzMyIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNlMmU4ZjAiIGxldHRlci1zcGFjaW5nPSIzIj5FWFBFUklFTkNFPC90ZXh0PgogIDwhLS0gcmlnaHQgZGVjb3JhdGl2ZSBkb3RzIC0tPgogIDxjaXJjbGUgY3g9IjY4MCIgY3k9IjE4IiByPSIyIiBmaWxsPSIjYTg1NWY3IiBvcGFjaXR5PSIwLjQiLz4KICA8Y2lyY2xlIGN4PSI2NjgiIGN5PSIxOCIgcj0iMS41IiBmaWxsPSIjNjM2NmYxIiBvcGFjaXR5PSIwLjMiLz4KICA8Y2lyY2xlIGN4PSI2NTYiIGN5PSIxOCIgcj0iMSIgZmlsbD0iI2E4NTVmNyIgb3BhY2l0eT0iMC4yIi8+Cjwvc3ZnPg==" alt="Experience" width="700" />
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e1426&height=30&width=700&text=%F0%9F%8C%BC%20%20EXPERIENCE&fontSize=16&fontColor=#e2e8f0&textAlignX=center&strokeColor=#a855f7&strokeWidth=1" width="700" alt="Experience"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iMTAwIiB2aWV3Qm94PSIwIDAgNzAwIDEwMCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImVjIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjEwMCUiIHkyPSIxMDAlIj4KICAgICAgPHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIgc3RvcC1vcGFjaXR5PSIwLjEiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYTg1NWY3IiBzdG9wLW9wYWNpdHk9IjAuMDUiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI3MDAiIGhlaWdodD0iMTAwIiByeD0iMTYiIGZpbGw9InVybCgjZWMpIiBzdHJva2U9IiM2MzY2ZjEiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMyIvPgogIDwhLS0gbGVmdCBnbG93IC0tPgogIDxlbGxpcHNlIGN4PSI2MCIgY3k9IjUwIiByeD0iNTAiIHJ5PSI0MCIgZmlsbD0iIzYzNjZmMSIgb3BhY2l0eT0iMC4wNiIvPgogIDwhLS0gZm9vdGJhbGwgZW1vamkgYXJlYSBiZyAtLT4KICA8Y2lyY2xlIGN4PSI0NiIgY3k9IjUwIiByPSIyOCIgZmlsbD0iIzBlMTQyNiIgc3Ryb2tlPSIjNjM2NmYxIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1vcGFjaXR5PSIwLjMiLz4KICA8dGV4dCB4PSI0NiIgeT0iNTgiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMjYiPvCfj4g8L3RleHQ+CiAgPCEtLSBjb21wYW55IC0tPgogIDx0ZXh0IHg9IjkwIiB5PSI0MiIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTgiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNmZmZmZmYiIGxldHRlci1zcGFjaW5nPSIyIj5TSE9UR1VOIEZBTlRBU1k8L3RleHQ+CiAgPHRleHQgeD0iOTAiIHk9IjY1IiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTIiIGZpbGw9IiMwNmI2ZDQiIGxldHRlci1zcGFjaW5nPSIxIj5CYWNrZW5kIERldmVsb3BlciBJbnRlcm48L3RleHQ+CiAgPCEtLSBkYXRlIHBpbGwgLS0+CiAgPHJlY3QgeD0iNTMwIiB5PSIzNiIgd2lkdGg9IjE0OCIgaGVpZ2h0PSIyOCIgcng9IjE0IiBmaWxsPSIjMDZiNmQ0IiBmaWxsLW9wYWNpdHk9IjAuMSIgc3Ryb2tlPSIjMDZiNmQ0IiBzdHJva2Utd2lkdGg9IjAuOCIgc3Ryb2tlLW9wYWNpdHk9IjAuNCIvPgogIDx0ZXh0IHg9IjYwNCIgeT0iNTUiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtZmFtaWx5PSInU2hhcmUgVGVjaCBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMSIgZmlsbD0iIzdkOGFhMCI+SnVsIDIwMjUg4oCTIEphbiAyMDI2PC90ZXh0PgogIDwhLS0gZGVjb3JhdGl2ZSBjb3JuZXIgLS0+CiAgPGxpbmUgeDE9IjY4MCIgeTE9IjEyIiB4Mj0iNjg4IiB5Mj0iMTIiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIxLjUiIG9wYWNpdHk9IjAuNCIvPgogIDxsaW5lIHgxPSI2ODgiIHkxPSIxMiIgeDI9IjY4OCIgeTI9IjIwIiBzdHJva2U9IiM2MzY2ZjEiIHN0cm9rZS13aWR0aD0iMS41IiBvcGFjaXR5PSIwLjQiLz4KPC9zdmc+" alt="ShotGun Fantasy" width="700" />
+| | |
+|:--|--:|
+| **🏈 &nbsp; ShotGun Fantasy** | `Jul 2025 – Jan 2026` |
+| Backend Developer Intern | |
 
+</div>
+
+<br/>
+
+- 🔹 &nbsp; Built and optimized backend services for an **NFL Fantasy Sports Platform**
+- 🔹 &nbsp; Improved **API response time & system stability** for high-traffic draft workflows
+- 🔹 &nbsp; Contributed to the **Draft Room module** used during live fantasy drafts
+
+<div align="center">
+<br/>
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Redis-D00000?style=for-the-badge&logo=redis&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&labelColor=1a1a2e" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e1426&height=30&width=700&text=%F0%9F%9A%80%20%20PROJECTS&fontSize=16&fontColor=#e2e8f0&textAlignX=center&strokeColor=#06b6d4&strokeWidth=1" width="700" alt="Projects"/>
+</div>
+
+<br/>
+
+### 🌿 &nbsp; Calm Corner
+
+> **Mental Health & Mindfulness Platform**
+
+- 🔹 &nbsp; Built a responsive platform for **emotion tracking & mindfulness**
+- 🔹 &nbsp; Implemented **secure JWT authentication** and scalable backend APIs
+- 🔹 &nbsp; Automated **CI/CD pipelines** for production deployment via GitHub Actions
+
+<div align="center">
+<br/>
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Chakra%20UI-ED8538?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logoColor=white&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-181717?style=for-the-badge&logo=github-actions&logoColor=white&labelColor=1a1a2e" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/GitHub-Coming%20Soon-1e1b4b?style=for-the-badge&logo=github&logoColor=white" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-083344?style=for-the-badge&logo=vercel&logoColor=white" />
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e1426&height=30&width=700&text=%F0%9F%8E%93%20%20EDUCATION&fontSize=16&fontColor=#e2e8f0&textAlignX=center&strokeColor=#a855f7&strokeWidth=1" width="700" alt="Education"/>
 </div>
 
 <br/>
 
 <div align="center">
 
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDE0IDE0Ij4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmciPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDZiNmQ0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjQiIGZpbGw9InVybCgjYmcpIi8+CiAgPGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIwLjgiIG9wYWNpdHk9IjAuNCIvPgo8L3N2Zz4=" width="12" /> | |
+| | |
+|:--|:--|
+| 🎓 &nbsp; **Degree** | B.Tech in Software Engineering |
+| 🏛️ &nbsp; **University** | Apollo University, Chittoor |
+| 📚 &nbsp; **Program** | Kalvium UG Program |
+| 📅 &nbsp; **Duration** | 2023 – 2027 |
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0e1426&height=30&width=700&text=%F0%9F%8F%90%20%20ACHIEVEMENTS&fontSize=16&fontColor=#e2e8f0&textAlignX=center&strokeColor=#f59e0b&strokeWidth=1" width="700" alt="Achievements"/>
+</div>
+
+<br/>
+
+<div align="center">
+
+| # | Achievement |
 |:--:|:--|
-| | Built and optimized backend services for an **NFL Fantasy Sports Platform** |
-| | Improved **API response time & system stability** for high-traffic draft workflows |
-| | Contributed to the **Draft Room module** used during live fantasy drafts |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Node.js--339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Go--00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/Express.js--404040?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/PostgreSQL--336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-<img src="https://img.shields.io/badge/Redis--D00000?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Docker--2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+| 🏅 | Backend Engineering Intern @ **ShotGun Fantasy** |
+| 🏅 | Full-Stack Programming **Certification** |
+| 🏅 | SQL Database & **Optimization** |
+| 🏅 | Google **Cloud Computing** |
+| 🏅 | Deployed **4+ Production-Grade Applications** |
 
 </div>
 
@@ -183,89 +285,6 @@
 
 <div align="center">
 
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNTIiIHZpZXdCb3g9IjAgMCA3MDAgNTIiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDZiNmQ0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI1MiIgcng9IjEyIiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiMwNmI2ZDQiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiLz4KICA8IS0tIGxlZnQgYWNjZW50IGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MiIgcng9IjIiIGZpbGw9InVybCgjc2gpIi8+CiAgPCEtLSBnbG93IGRvdCAtLT4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjI2IiByPSIxMCIgZmlsbD0iIzA2YjZkNCIgb3BhY2l0eT0iMC4wOCIvPgogIDx0ZXh0IHg9IjI0IiB5PSIzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCI+8J+agDwvdGV4dD4KICA8IS0tIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ4IiB5PSIzMyIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNlMmU4ZjAiIGxldHRlci1zcGFjaW5nPSIzIj5QUk9KRUNUUzwvdGV4dD4KICA8IS0tIHJpZ2h0IGRlY29yYXRpdmUgZG90cyAtLT4KICA8Y2lyY2xlIGN4PSI2ODAiIGN5PSIxOCIgcj0iMiIgZmlsbD0iIzA2YjZkNCIgb3BhY2l0eT0iMC40Ii8+CiAgPGNpcmNsZSBjeD0iNjY4IiBjeT0iMTgiIHI9IjEuNSIgZmlsbD0iIzYzNjZmMSIgb3BhY2l0eT0iMC4zIi8+CiAgPGNpcmNsZSBjeD0iNjU2IiBjeT0iMTgiIHI9IjEiIGZpbGw9IiMwNmI2ZDQiIG9wYWNpdHk9IjAuMiIvPgo8L3N2Zz4=" alt="Projects" width="700" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNzIiIHZpZXdCb3g9IjAgMCA3MDAgNzIiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJwYyIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwNmI2ZDQiIHN0b3Atb3BhY2l0eT0iMC4xIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIgc3RvcC1vcGFjaXR5PSIwLjA2Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8cmVjdCB3aWR0aD0iNzAwIiBoZWlnaHQ9IjcyIiByeD0iMTQiIGZpbGw9InVybCgjcGMpIiBzdHJva2U9IiMwNmI2ZDQiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMjUiLz4KICA8IS0tIGdsb3cgb3JiIHRvcC1yaWdodCAtLT4KICA8ZWxsaXBzZSBjeD0iNjUwIiBjeT0iMjAiIHJ4PSI2MCIgcnk9IjM1IiBmaWxsPSIjMDZiNmQ0IiBvcGFjaXR5PSIwLjA1Ii8+CiAgPCEtLSBsZWFmIGljb24gYmcgLS0+CiAgPGNpcmNsZSBjeD0iMzgiIGN5PSIzNiIgcj0iMjIiIGZpbGw9IiMwZTE0MjYiIHN0cm9rZT0iIzA2YjZkNCIgc3Ryb2tlLXdpZHRoPSIwLjgiIHN0cm9rZS1vcGFjaXR5PSIwLjMiLz4KICA8dGV4dCB4PSIzOCIgeT0iNDQiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGZvbnQtc2l6ZT0iMjIiPvCfjL88L3RleHQ+CiAgPCEtLSB0aXRsZSArIGRlc2MgLS0+CiAgPHRleHQgeD0iNzIiIHk9IjM1IiBmb250LWZhbWlseT0iJ09yYml0cm9uJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxNiIgZm9udC13ZWlnaHQ9IjcwMCIgZmlsbD0iI2ZmZmZmZiIgbGV0dGVyLXNwYWNpbmc9IjIiPkNBTE0gQ09STkVSPC90ZXh0PgogIDx0ZXh0IHg9IjcyIiB5PSI1NSIgZm9udC1mYW1pbHk9IidTaGFyZSBUZWNoIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjExIiBmaWxsPSIjN2Q4YWEwIiBsZXR0ZXItc3BhY2luZz0iMSI+TWVudGFsIEhlYWx0aCAmYW1wOyBNaW5kZnVsbmVzcyBQbGF0Zm9ybTwvdGV4dD4KPC9zdmc+" alt="Calm Corner" width="700" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-| <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxNCIgaGVpZ2h0PSIxNCIgdmlld0JveD0iMCAwIDE0IDE0Ij4KICA8ZGVmcz4KICAgIDxyYWRpYWxHcmFkaWVudCBpZD0iYmciPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjMDZiNmQ0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzYzNjZmMSIvPgogICAgPC9yYWRpYWxHcmFkaWVudD4KICA8L2RlZnM+CiAgPGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjQiIGZpbGw9InVybCgjYmcpIi8+CiAgPGNpcmNsZSBjeD0iNyIgY3k9IjciIHI9IjYiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIwLjgiIG9wYWNpdHk9IjAuNCIvPgo8L3N2Zz4=" width="12" /> | |
-|:--:|:--|
-| | Built a responsive platform for **emotion tracking & mindfulness** |
-| | Implemented **secure JWT authentication** and scalable backend APIs |
-| | Automated **CI/CD pipelines** for production deployment via GitHub Actions |
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React.js--61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React.js" />
-<img src="https://img.shields.io/badge/Chakra%20UI--ED8538?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
-<img src="https://img.shields.io/badge/Express.js--404040?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB--47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/JWT--000000?style=for-the-badge" alt="JWT" />
-<img src="https://img.shields.io/badge/GitHub%20Actions--181717?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub-Coming%20Soon-1e1b4b?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-&nbsp;
-<img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-083344?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNTIiIHZpZXdCb3g9IjAgMCA3MDAgNTIiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjYTg1NWY3Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iIzA2YjZkNCIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI1MiIgcng9IjEyIiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiLz4KICA8IS0tIGxlZnQgYWNjZW50IGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MiIgcng9IjIiIGZpbGw9InVybCgjc2gpIi8+CiAgPCEtLSBnbG93IGRvdCAtLT4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjI2IiByPSIxMCIgZmlsbD0iI2E4NTVmNyIgb3BhY2l0eT0iMC4wOCIvPgogIDx0ZXh0IHg9IjI0IiB5PSIzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCI+8J+OkzwvdGV4dD4KICA8IS0tIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ4IiB5PSIzMyIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNlMmU4ZjAiIGxldHRlci1zcGFjaW5nPSIzIj5FRFVDQVRJT048L3RleHQ+CiAgPCEtLSByaWdodCBkZWNvcmF0aXZlIGRvdHMgLS0+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgiIHI9IjIiIGZpbGw9IiNhODU1ZjciIG9wYWNpdHk9IjAuNCIvPgogIDxjaXJjbGUgY3g9IjY2OCIgY3k9IjE4IiByPSIxLjUiIGZpbGw9IiMwNmI2ZDQiIG9wYWNpdHk9IjAuMyIvPgogIDxjaXJjbGUgY3g9IjY1NiIgY3k9IjE4IiByPSIxIiBmaWxsPSIjYTg1NWY3IiBvcGFjaXR5PSIwLjIiLz4KPC9zdmc+" alt="Education" width="700" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iMTY4IiB2aWV3Qm94PSIwIDAgNzAwIDE2OCI+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjMzMCIgaGVpZ2h0PSI3MiIgcng9IjE0IiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMC44IiBzdHJva2Utb3BhY2l0eT0iMC4yNSIvPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI0IiBoZWlnaHQ9IjcyIiByeD0iMiIgZmlsbD0iI2E4NTVmNyIgb3BhY2l0eT0iMC41Ii8+CiAgPHRleHQgeD0iMTgiIHk9IjI0IiBmb250LWZhbWlseT0iJ1NoYXJlIFRlY2ggTW9ubycsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTAiIGZpbGw9IiNhODU1ZjciIGxldHRlci1zcGFjaW5nPSIyIj5ERUdSRUU8L3RleHQ+CiAgPHRleHQgeD0iMTgiIHk9IjUwIiBmb250LWZhbWlseT0iJ1JhamRoYW5pJywnc2Fucy1zZXJpZiciIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IiNmZmZmZmYiPkIuVGVjaCBpbiBTb2Z0d2FyZSBFbmdpbmVlcmluZzwvdGV4dD4KICA8cmVjdCB4PSIzNTAiIHk9IjAiIHdpZHRoPSIzMzAiIGhlaWdodD0iNzIiIHJ4PSIxNCIgZmlsbD0iIzBlMTQyNiIgc3Ryb2tlPSIjYTg1NWY3IiBzdHJva2Utd2lkdGg9IjAuOCIgc3Ryb2tlLW9wYWNpdHk9IjAuMjUiLz4KICA8cmVjdCB4PSIzNTAiIHk9IjAiIHdpZHRoPSI0IiBoZWlnaHQ9IjcyIiByeD0iMiIgZmlsbD0iI2E4NTVmNyIgb3BhY2l0eT0iMC41Ii8+CiAgPHRleHQgeD0iMzY4IiB5PSIyNCIgZm9udC1mYW1pbHk9IidTaGFyZSBUZWNoIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjYTg1NWY3IiBsZXR0ZXItc3BhY2luZz0iMiI+VU5JVkVSU0lUWTwvdGV4dD4KICA8dGV4dCB4PSIzNjgiIHk9IjUwIiBmb250LWZhbWlseT0iJ1JhamRoYW5pJywnc2Fucy1zZXJpZiciIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IiNmZmZmZmYiPkFwb2xsbyBVbml2ZXJzaXR5LCBDaGl0dG9vcjwvdGV4dD4KICA8cmVjdCB4PSIwIiB5PSI4NCIgd2lkdGg9IjMzMCIgaGVpZ2h0PSI3MiIgcng9IjE0IiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMC44IiBzdHJva2Utb3BhY2l0eT0iMC4yNSIvPgogIDxyZWN0IHg9IjAiIHk9Ijg0IiB3aWR0aD0iNCIgaGVpZ2h0PSI3MiIgcng9IjIiIGZpbGw9IiNhODU1ZjciIG9wYWNpdHk9IjAuNSIvPgogIDx0ZXh0IHg9IjE4IiB5PSIxMDgiIGZvbnQtZmFtaWx5PSInU2hhcmUgVGVjaCBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2E4NTVmNyIgbGV0dGVyLXNwYWNpbmc9IjIiPlBST0dSQU08L3RleHQ+CiAgPHRleHQgeD0iMTgiIHk9IjEzNCIgZm9udC1mYW1pbHk9IidSYWpkaGFuaScsJ3NhbnMtc2VyaWYnIiBmb250LXNpemU9IjE2IiBmb250LXdlaWdodD0iNjAwIiBmaWxsPSIjZmZmZmZmIj5LYWx2aXVtIFVHIFByb2dyYW08L3RleHQ+CiAgPHJlY3QgeD0iMzUwIiB5PSI4NCIgd2lkdGg9IjMzMCIgaGVpZ2h0PSI3MiIgcng9IjE0IiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMC44IiBzdHJva2Utb3BhY2l0eT0iMC4yNSIvPgogIDxyZWN0IHg9IjM1MCIgeT0iODQiIHdpZHRoPSI0IiBoZWlnaHQ9IjcyIiByeD0iMiIgZmlsbD0iI2E4NTVmNyIgb3BhY2l0eT0iMC41Ii8+CiAgPHRleHQgeD0iMzY4IiB5PSIxMDgiIGZvbnQtZmFtaWx5PSInU2hhcmUgVGVjaCBNb25vJywnQ291cmllciBOZXcnLG1vbm9zcGFjZSIgZm9udC1zaXplPSIxMCIgZmlsbD0iI2E4NTVmNyIgbGV0dGVyLXNwYWNpbmc9IjIiPkRVUkFUSU9OPC90ZXh0PgogIDx0ZXh0IHg9IjM2OCIgeT0iMTM0IiBmb250LWZhbWlseT0iJ1JhamRoYW5pJywnc2Fucy1zZXJpZiciIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI2MDAiIGZpbGw9IiNmZmZmZmYiPjIwMjMg4oCTIDIwMjc8L3RleHQ+Cjwvc3ZnPg==" alt="Education Details" width="700" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNTIiIHZpZXdCb3g9IjAgMCA3MDAgNTIiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJzaCIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjZjU5ZTBiIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E4NTVmNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI1MiIgcng9IjEyIiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMzUiLz4KICA8IS0tIGxlZnQgYWNjZW50IGJhciAtLT4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNCIgaGVpZ2h0PSI1MiIgcng9IjIiIGZpbGw9InVybCgjc2gpIi8+CiAgPCEtLSBnbG93IGRvdCAtLT4KICA8Y2lyY2xlIGN4PSIyNCIgY3k9IjI2IiByPSIxMCIgZmlsbD0iI2Y1OWUwYiIgb3BhY2l0eT0iMC4wOCIvPgogIDx0ZXh0IHg9IjI0IiB5PSIzMiIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1zaXplPSIxOCI+8J+PhjwvdGV4dD4KICA8IS0tIHRpdGxlIC0tPgogIDx0ZXh0IHg9IjQ4IiB5PSIzMyIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNlMmU4ZjAiIGxldHRlci1zcGFjaW5nPSIzIj5BQ0hJRVZFTUVOVFM8L3RleHQ+CiAgPCEtLSByaWdodCBkZWNvcmF0aXZlIGRvdHMgLS0+CiAgPGNpcmNsZSBjeD0iNjgwIiBjeT0iMTgiIHI9IjIiIGZpbGw9IiNmNTllMGIiIG9wYWNpdHk9IjAuNCIvPgogIDxjaXJjbGUgY3g9IjY2OCIgY3k9IjE4IiByPSIxLjUiIGZpbGw9IiNhODU1ZjciIG9wYWNpdHk9IjAuMyIvPgogIDxjaXJjbGUgY3g9IjY1NiIgY3k9IjE4IiByPSIxIiBmaWxsPSIjZjU5ZTBiIiBvcGFjaXR5PSIwLjIiLz4KPC9zdmc+" alt="Achievements" width="700" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iMjA0IiB2aWV3Qm94PSIwIDAgNzAwIDIwNCI+CiAgPGRlZnM+CiAgICA8bGluZWFyR3JhZGllbnQgaWQ9ImFnIiB4MT0iMCUiIHkxPSIwJSIgeDI9IjAlIiB5Mj0iMTAwJSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiNmNTllMGIiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjYTg1NWY3Ii8+CiAgICA8L2xpbmVhckdyYWRpZW50PgogIDwvZGVmcz4KICA8IS0tIGFjaCAwIC0tPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI3MDAiIGhlaWdodD0iMzYiIHJ4PSIxMCIgZmlsbD0iIzBlMTQyNiIgc3Ryb2tlPSIjZjU5ZTBiIiBzdHJva2Utd2lkdGg9IjAuNiIgc3Ryb2tlLW9wYWNpdHk9IjAuMTgiLz4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iMyIgaGVpZ2h0PSIzNiIgcng9IjEuNSIgZmlsbD0iI2Y1OWUwYiIgb3BhY2l0eT0iMC43Ii8+CiAgPHRleHQgeD0iMzAiIHk9IjIzIiBmb250LXNpemU9IjE4Ij7wn4+FPC90ZXh0PgogIDx0ZXh0IHg9IjU4IiB5PSIyNCIgZm9udC1mYW1pbHk9IidSYWpkaGFuaScsJ3NhbnMtc2VyaWYnIiBmb250LXNpemU9IjE1IiBmaWxsPSIjZTJlOGYwIiBmb250LXdlaWdodD0iNjAwIj5CYWNrZW5kIEVuZ2luZWVyaW5nIEludGVybiBAIFNob3RHdW4gRmFudGFzeTwvdGV4dD4KICA8IS0tIGFjaCAxIC0tPgogIDxyZWN0IHg9IjAiIHk9IjQyIiB3aWR0aD0iNzAwIiBoZWlnaHQ9IjM2IiByeD0iMTAiIGZpbGw9IiMwZTE0MjYiIHN0cm9rZT0iI2Y1OWUwYiIgc3Ryb2tlLXdpZHRoPSIwLjYiIHN0cm9rZS1vcGFjaXR5PSIwLjE4Ii8+CiAgPHJlY3QgeD0iMCIgeT0iNDIiIHdpZHRoPSIzIiBoZWlnaHQ9IjM2IiByeD0iMS41IiBmaWxsPSIjZjU5ZTBiIiBvcGFjaXR5PSIwLjciLz4KICA8dGV4dCB4PSIzMCIgeT0iNjUiIGZvbnQtc2l6ZT0iMTgiPvCfj4U8L3RleHQ+CiAgPHRleHQgeD0iNTgiIHk9IjY2IiBmb250LWZhbWlseT0iJ1JhamRoYW5pJywnc2Fucy1zZXJpZiciIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiNlMmU4ZjAiIGZvbnQtd2VpZ2h0PSI2MDAiPkZ1bGwtU3RhY2sgUHJvZ3JhbW1pbmcgQ2VydGlmaWNhdGlvbjwvdGV4dD4KICA8IS0tIGFjaCAyIC0tPgogIDxyZWN0IHg9IjAiIHk9Ijg0IiB3aWR0aD0iNzAwIiBoZWlnaHQ9IjM2IiByeD0iMTAiIGZpbGw9IiMwZTE0MjYiIHN0cm9rZT0iI2Y1OWUwYiIgc3Ryb2tlLXdpZHRoPSIwLjYiIHN0cm9rZS1vcGFjaXR5PSIwLjE4Ii8+CiAgPHJlY3QgeD0iMCIgeT0iODQiIHdpZHRoPSIzIiBoZWlnaHQ9IjM2IiByeD0iMS41IiBmaWxsPSIjZjU5ZTBiIiBvcGFjaXR5PSIwLjciLz4KICA8dGV4dCB4PSIzMCIgeT0iMTA3IiBmb250LXNpemU9IjE4Ij7wn4+FPC90ZXh0PgogIDx0ZXh0IHg9IjU4IiB5PSIxMDgiIGZvbnQtZmFtaWx5PSInUmFqZGhhbmknLCdzYW5zLXNlcmlmJyIgZm9udC1zaXplPSIxNSIgZmlsbD0iI2UyZThmMCIgZm9udC13ZWlnaHQ9IjYwMCI+U1FMIERhdGFiYXNlICZhbXA7IE9wdGltaXphdGlvbjwvdGV4dD4KICA8IS0tIGFjaCAzIC0tPgogIDxyZWN0IHg9IjAiIHk9IjEyNiIgd2lkdGg9IjcwMCIgaGVpZ2h0PSIzNiIgcng9IjEwIiBmaWxsPSIjMGUxNDI2IiBzdHJva2U9IiNmNTllMGIiIHN0cm9rZS13aWR0aD0iMC42IiBzdHJva2Utb3BhY2l0eT0iMC4xOCIvPgogIDxyZWN0IHg9IjAiIHk9IjEyNiIgd2lkdGg9IjMiIGhlaWdodD0iMzYiIHJ4PSIxLjUiIGZpbGw9IiNmNTllMGIiIG9wYWNpdHk9IjAuNyIvPgogIDx0ZXh0IHg9IjMwIiB5PSIxNDkiIGZvbnQtc2l6ZT0iMTgiPvCfj4U8L3RleHQ+CiAgPHRleHQgeD0iNTgiIHk9IjE1MCIgZm9udC1mYW1pbHk9IidSYWpkaGFuaScsJ3NhbnMtc2VyaWYnIiBmb250LXNpemU9IjE1IiBmaWxsPSIjZTJlOGYwIiBmb250LXdlaWdodD0iNjAwIj5Hb29nbGUgQ2xvdWQgQ29tcHV0aW5nPC90ZXh0PgogIDwhLS0gYWNoIDQgLS0+CiAgPHJlY3QgeD0iMCIgeT0iMTY4IiB3aWR0aD0iNzAwIiBoZWlnaHQ9IjM2IiByeD0iMTAiIGZpbGw9IiMwZTE0MjYiIHN0cm9rZT0iI2Y1OWUwYiIgc3Ryb2tlLXdpZHRoPSIwLjYiIHN0cm9rZS1vcGFjaXR5PSIwLjE4Ii8+CiAgPHJlY3QgeD0iMCIgeT0iMTY4IiB3aWR0aD0iMyIgaGVpZ2h0PSIzNiIgcng9IjEuNSIgZmlsbD0iI2Y1OWUwYiIgb3BhY2l0eT0iMC43Ii8+CiAgPHRleHQgeD0iMzAiIHk9IjE5MSIgZm9udC1zaXplPSIxOCI+8J+PhTwvdGV4dD4KICA8dGV4dCB4PSI1OCIgeT0iMTkyIiBmb250LWZhbWlseT0iJ1JhamRoYW5pJywnc2Fucy1zZXJpZiciIGZvbnQtc2l6ZT0iMTUiIGZpbGw9IiNlMmU4ZjAiIGZvbnQtd2VpZ2h0PSI2MDAiPkRlcGxveWVkIDQrIFByb2R1Y3Rpb24tR3JhZGUgQXBwbGljYXRpb25zPC90ZXh0Pgo8L3N2Zz4=" alt="Achievements" width="700" />
-
-</div>
-
----
-
-<div align="center">
-
-<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI3MDAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA3MDAgNjAiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJmYiIgeDE9IjAlIiB5MT0iMCUiIHgyPSIxMDAlIiB5Mj0iMCUiPgogICAgICA8c3RvcCBvZmZzZXQ9IjAlIiBzdG9wLWNvbG9yPSIjNjM2NmYxIi8+CiAgICAgIDxzdG9wIG9mZnNldD0iNTAlIiBzdG9wLWNvbG9yPSIjMDZiNmQ0Ii8+CiAgICAgIDxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2E4NTVmNyIvPgogICAgPC9saW5lYXJHcmFkaWVudD4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI2MCIgcng9IjE0IiBmaWxsPSIjMDYwYTE0IiBzdHJva2U9IiM2MzY2ZjEiIHN0cm9rZS13aWR0aD0iMSIgc3Ryb2tlLW9wYWNpdHk9IjAuMjUiLz4KICA8IS0tIHN1YnRsZSBncmlkIGluc2lkZSAtLT4KICA8ZGVmcz4KICAgIDxwYXR0ZXJuIGlkPSJmZyIgd2lkdGg9IjMwIiBoZWlnaHQ9IjMwIiBwYXR0ZXJuVW5pdHM9InVzZXJTcGFjZU9uVXNlIj4KICAgICAgPHBhdGggZD0iTSAzMCAwIEwgMCAwIDAgMzAiIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIwLjI1IiBvcGFjaXR5PSIwLjIiLz4KICAgIDwvcGF0dGVybj4KICA8L2RlZnM+CiAgPHJlY3Qgd2lkdGg9IjcwMCIgaGVpZ2h0PSI2MCIgcng9IjE0IiBmaWxsPSJ1cmwoI2ZnKSIvPgogIDwhLS0gc3RhciArIHRleHQgLS0+CiAgPHRleHQgeD0iMzUwIiB5PSIyOCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidPcmJpdHJvbicsJ0NvdXJpZXIgTmV3Jyxtb25vc3BhY2UiIGZvbnQtc2l6ZT0iMTQiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9InVybCgjZmIpIiBsZXR0ZXItc3BhY2luZz0iMyI+4q2QIEFMV0FZUyBPUEVOIFRPIExFQVJOSU5HICZhbXA7IENPTExBQk9SQVRJTkc8L3RleHQ+CiAgPHRleHQgeD0iMzUwIiB5PSI0OCIgdGV4dC1hbmNob3I9Im1pZGRsZSIgZm9udC1mYW1pbHk9IidTaGFyZSBUZWNoIE1vbm8nLCdDb3VyaWVyIE5ldycsbW9ub3NwYWNlIiBmb250LXNpemU9IjEwIiBmaWxsPSIjN2Q4YWEwIiBsZXR0ZXItc3BhY2luZz0iMSI+Q3JhZnRlZCB3aXRoIGRlcHRoIMK3IFBvd2VyZWQgYnkgY3VyaW9zaXR5PC90ZXh0PgogIDwhLS0gY29ybmVyIGFjY2VudHMgLS0+CiAgPGxpbmUgeDE9IjEyIiB5MT0iOCIgeDI9IjI4IiB5Mj0iOCIgc3Ryb2tlPSIjNjM2NmYxIiBzdHJva2Utd2lkdGg9IjEuMiIgb3BhY2l0eT0iMC40Ii8+CiAgPGxpbmUgeDE9IjEyIiB5MT0iOCIgeDI9IjEyIiB5Mj0iMjQiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIxLjIiIG9wYWNpdHk9IjAuNCIvPgogIDxsaW5lIHgxPSI2NzIiIHkxPSI4IiB4Mj0iNjg4IiB5Mj0iOCIgc3Ryb2tlPSIjYTg1NWY3IiBzdHJva2Utd2lkdGg9IjEuMiIgb3BhY2l0eT0iMC40Ii8+CiAgPGxpbmUgeDE9IjY4OCIgeTE9IjgiIHgyPSI2ODgiIHkyPSIyNCIgc3Ryb2tlPSIjYTg1NWY3IiBzdHJva2Utd2lkdGg9IjEuMiIgb3BhY2l0eT0iMC40Ii8+CiAgPGxpbmUgeDE9IjEyIiB5MT0iMzYiIHgyPSIxMiIgeTI9IjUyIiBzdHJva2U9IiM2MzY2ZjEiIHN0cm9rZS13aWR0aD0iMS4yIiBvcGFjaXR5PSIwLjQiLz4KICA8bGluZSB4MT0iMTIiIHkxPSI1MiIgeDI9IjI4IiB5Mj0iNTIiIHN0cm9rZT0iIzYzNjZmMSIgc3Ryb2tlLXdpZHRoPSIxLjIiIG9wYWNpdHk9IjAuNCIvPgogIDxsaW5lIHgxPSI2ODgiIHkxPSIzNiIgeDI9IjY4OCIgeTI9IjUyIiBzdHJva2U9IiNhODU1ZjciIHN0cm9rZS13aWR0aD0iMS4yIiBvcGFjaXR5PSIwLjQiLz4KICA8bGluZSB4MT0iNjcyIiB5MT0iNTIiIHgyPSI2ODgiIHkyPSI1MiIgc3Ryb2tlPSIjYTg1NWY3IiBzdHJva2Utd2lkdGg9IjEuMiIgb3BhY2l0eT0iMC40Ii8+Cjwvc3ZnPg==" alt="Footer" width="700" />
+<img src="https://capsule-render.vercel.app/api?type=waveAppear&color=0,#6366f1,#06b6d4,#a855f7,100&height=60&section=footer&text=Always%20Open%20to%20Learning%20%26%20Collaborating&fontSize=16&fontColor=#ffffff&animation=fadeIn&textAlignX=center&strokeColor=#6366f1" width="100%" />
 
 </div>
