@@ -87,24 +87,6 @@ Mental wellness platform for **emotion tracking and mindfulness resources**.
 
 </div>
 
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=srikeerthireddy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=srikeerthireddy&theme=tokyonight&hide_border=true" height="165"/>
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikeerthireddy&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🎓 Education
 
 <table>
