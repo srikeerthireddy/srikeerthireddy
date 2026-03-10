@@ -1,112 +1,138 @@
-████████╗███████╗██████╗ ███╗   ███╗██╗███╗   ██╗ █████╗ ██╗     
-╚══██╔══╝██╔════╝██╔══██╗████╗ ████║██║████╗  ██║██╔══██╗██║     
-   ██║   █████╗  ██████╔╝██╔████╔██║██║██╔██╗ ██║███████║██║     
-   ██║   ██╔══╝  ██╔══██╗██║╚██╔╝██║██║██║╚██╗██║██╔══██║██║     
-   ██║   ███████╗██║  ██║██║ ╚═╝ ██║██║██║ ╚████║██║  ██║███████╗
-   ╚═╝   ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚══════╝
+<div align="center">
 
-> USER: y.sri.keerthi  
-> ROLE: backend_focused_fullstack_engineer  
-> MODE: production_ready  
-> STATUS: active  
+# 👋 Hi, I'm Y. Sri Keerthi
 
-------------------------------------------------------------
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" width="260"/>
 
-$ whoami
-Y. Sri Keerthi
+### Backend-Focused Full Stack Engineer
 
-$ cat profile.txt
-Full-stack engineer with a strong focus on backend systems,  
-scalable APIs, and cloud-native architectures.  
-Experienced in building reliable, secure, and high-performance  
-applications used in real-world production environments.
+Building **scalable APIs**, **reliable backend systems**, and **production-ready applications**.
 
-------------------------------------------------------------
+🔧 Backend Engineering • ☁️ Cloud & Deployment • ⚡ API Optimization • 📦 Scalable System Design
 
-$ ls skills/
+<br>
 
-📁 programming_languages
-![C++](https://skillicons.dev/icons?i=cpp&theme=dark)
-![Java](https://skillicons.dev/icons?i=java&theme=dark)
-![Python](https://skillicons.dev/icons?i=python&theme=dark)
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/srikeerthireddy"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Portfolio-000?style=flat-square"/></a>
 
-📁 frontend
-![React](https://skillicons.dev/icons?i=react&theme=dark)
-![Next.js](https://skillicons.dev/icons?i=nextjs&theme=dark)
-![Tailwind](https://skillicons.dev/icons?i=tailwind&theme=dark)
+</div>
 
-📁 backend
-![Node.js](https://skillicons.dev/icons?i=nodejs&theme=dark)
-![Express](https://skillicons.dev/icons?i=express&theme=dark)
-![Go](https://skillicons.dev/icons?i=go&theme=dark)
+---
 
-📁 database_cache
-![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres&theme=dark)
-![Redis](https://skillicons.dev/icons?i=redis&theme=dark)
+# 🚀 About Me
 
-📁 devops_tools
-![Docker](https://skillicons.dev/icons?i=docker&theme=dark)
-![Git](https://skillicons.dev/icons?i=git&theme=dark)
-![GitHub](https://skillicons.dev/icons?i=github&theme=dark)
-![Postman](https://skillicons.dev/icons?i=postman&theme=dark)
-![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark)
+💻 Backend-focused Full Stack Developer  
+⚙️ Passionate about scalable APIs and distributed systems  
+☁️ Interested in cloud infrastructure and DevOps  
+📦 Love building production-ready applications  
 
-------------------------------------------------------------
+---
 
-$ cat experience.log
+# 💻 Tech Stack
 
-[2025-07 → 2026-01] ShotGun Fantasy — Backend Developer Intern
+<div align="center">
 
-- Built and optimized backend services for an NFL Fantasy platform
-- Designed APIs supporting high-traffic live draft rooms
-- Improved response times and system stability during peak usage
-- Contributed to production features used in real-time drafts
+<img src="https://skillicons.dev/icons?i=cpp,java,python,react,nextjs,tailwind,nodejs,express,mongodb,postgres,redis,docker,git,github,postman&theme=dark"/>
 
-STACK:
-Node.js | Golang | Express.js | PostgreSQL | Redis | Docker | REST APIs
+</div>
 
-------------------------------------------------------------
+---
 
-$ cat projects/
+# 💼 Experience
 
-▶ calm_corner/
-  - Mental health & mindfulness web platform
-  - Secure JWT authentication
-  - Scalable REST APIs
-  - CI/CD automated deployments
+### Backend Developer Intern — ShotGun Fantasy  
+📅 **July 2025 – Jan 2026**
 
-  STACK:
-  React.js | Chakra UI | Express.js | MongoDB | GitHub Actions
+- Built backend services for an **NFL Fantasy platform**
+- Designed APIs supporting **high-traffic live draft rooms**
+- Improved **API performance and system stability**
 
-  METRICS:
-  • 10+ user activity logs/month
-  • 25% improvement in reliability
+**Tech Stack Used**
 
-------------------------------------------------------------
+<div align="center">
 
-$ cat education.txt
-Kalvium — UG Program in Computer Science (2023–2027)
-B.Tech in Software Engineering  
-Apollo University, Chittoor
+<img src="https://skillicons.dev/icons?i=nodejs,go,postgres,redis,docker&theme=dark"/>
 
-------------------------------------------------------------
+</div>
 
-$ cat achievements.md
-✔ Full-Stack Programming Certification  
-✔ SQL Database & Optimization  
-✔ Google Cloud Computing  
-✔ 4+ Production-grade deployments  
-✔ Backend Intern @ ShotGun Fantasy  
+---
 
-------------------------------------------------------------
+# 🚀 Projects
 
-$ echo "connect"
-LinkedIn | GitHub | LeetCode | Portfolio
+## 🏛 Smart Public Infrastructure Monitoring System
 
-------------------------------------------------------------
+Platform where **citizens report infrastructure issues** and **government departments track and resolve complaints**.
 
-$ systemctl status sri-keerthi
-● backend.engineer.service - ACTIVE
-  Focus: APIs | Scalability | Performance
-  Availability: internships | backend-heavy roles
+**Tech Stack**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=nextjs,nodejs,postgres,tailwind&theme=dark"/>
+
+</div>
+
+---
+
+## 🧘 Calm Corner
+
+Mental wellness platform for **emotion tracking and mindfulness resources**.
+
+**Tech Stack**
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb&theme=dark"/>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=srikeerthireddy&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=srikeerthireddy&theme=tokyonight&hide_border=true" height="165"/>
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikeerthireddy&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🎓 Education
+
+<table>
+<tr>
+<td>
+
+🎓 **B.Tech – Software Engineering**  
+🏫 **Apollo University** — Kalvium Program  
+📅 **2023 – 2027**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements
+
+<p>
+
+<img src="https://img.shields.io/badge/Full%20Stack-Certified-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SQL-Database%20Optimization-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Google-Cloud%20Computing-yellow?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deployments-4%2B%20Production%20Apps-orange?style=for-the-badge"/>
+
+</p>
+<div align="center">
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
